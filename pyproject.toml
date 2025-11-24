@@ -1,0 +1,11 @@
+[project]
+name = "sf-renting-research-practice"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.14"
+dependencies = [
+    "beautifulsoup4>=4.14.2",
+    "python-dotenv>=1.2.1",
+    "requests>=2.32.5",
+    "selenium>=4.38.0",
+]
